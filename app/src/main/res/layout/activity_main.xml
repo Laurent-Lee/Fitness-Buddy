@@ -1,0 +1,82 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.workout.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <!-- Week One category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_one">
+        <TextView
+            android:id="@+id/week_one"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_one"/>
+    </FrameLayout>
+
+    <!-- Week Two category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_two">
+        <TextView
+            android:id="@+id/week_two"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_two" />
+    </FrameLayout>
+
+    <!-- Week Three category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_three">
+        <TextView
+            android:id="@+id/week_three"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_three" />
+    </FrameLayout>
+
+    <!-- Week Four category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_four">
+        <TextView
+            android:id="@+id/week_four"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_four" />
+    </FrameLayout>
+
+    <!-- Week Five category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_five">
+        <TextView
+            android:id="@+id/week_five"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_five" />
+    </FrameLayout>
+
+    <!-- Week Six category -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/week_height"
+        android:background="@color/week_six">
+        <TextView
+            android:id="@+id/week_six"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/week_six" />
+    </FrameLayout>
+    </LinearLayout>
+</ScrollView>

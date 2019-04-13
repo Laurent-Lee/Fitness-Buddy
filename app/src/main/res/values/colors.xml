@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#E8000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="week_one">#bdbdbd</color>
+    <color name="week_two">#9e9e9e</color>
+    <color name="week_three">#757575</color>
+    <color name="week_four">#616161</color>
+    <color name="week_five">#424242</color>
+    <color name="week_six">#212121</color>
+    <color name="instruction_background">#b71c1c</color>
+    <color name="round_background">#e0e0e0</color>
+</resources>

@@ -1,0 +1,114 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.workout.Session">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp">
+
+        <com.ms.square.android.expandabletextview.ExpandableTextView
+            android:id="@+id/expand_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            expandableTextView:expandDrawable="@color/instruction_background"
+            expandableTextView:collapseDrawable="@color/instruction_background"
+            style="@style/WarmupTextStyle"
+            expandableTextView:maxCollapsedLines="1"
+            expandableTextView:animDuration="200">
+            <TextView
+                android:id="@id/expandable_text"
+                style="@style/WarmupInsideTextStyle" />
+            <ImageButton
+                android:id="@id/expand_collapse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"/>
+        </com.ms.square.android.expandabletextview.ExpandableTextView>
+
+        <TextView
+            android:id="@+id/special_instructions"
+            style="@style/SpecialInstructionTextStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/first_long_round"
+            style="@style/LongRoundInfoStyle"
+            android:layout_marginTop="24dp"/>
+
+        <TextView
+            android:id="@+id/first_round"
+            style="@style/RoundInfoStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/first_instructions"
+            style="@style/InstructionTextStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/first_darkinfo"
+            style="@style/DarkInfoStyle" />
+
+
+        <TextView
+            android:id="@+id/second_long_round"
+            style="@style/LongRoundInfoStyle"
+            android:layout_marginTop="24dp"/>
+
+        <TextView
+            android:id="@+id/second_long_round_darkinfo"
+            style="@style/DarkInfoStyle" />
+
+
+        <TextView
+            android:id="@+id/second_round"
+            style="@style/RoundInfoStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/second_instruction"
+            style="@style/InstructionTextStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/second_darkinfo"
+            style="@style/DarkInfoStyle" />
+
+        <TextView
+            android:id="@+id/third_round"
+            style="@style/RoundInfoStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/third_instruction"
+            style="@style/InstructionTextStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/third_darkinfo"
+            style="@style/DarkInfoStyle" />
+
+        <TextView
+            android:id="@+id/fourth_round"
+            style="@style/RoundInfoStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/fourth_instruction"
+            style="@style/InstructionTextStyle"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/fourth_darkinfo"
+            style="@style/DarkInfoStyle" />
+
+    </LinearLayout>
+
+</ScrollView>

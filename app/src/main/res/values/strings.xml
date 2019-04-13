@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">Workout</string>
+
+    <string name="empty">empty</string>
+
+    <!-- names for the different weeks -->
+    <string name="week_one">Week One</string>
+    <string name="week_two">Week Two</string>
+    <string name="week_three">Week Three</string>
+    <string name="week_four">Week Four</string>
+    <string name="week_five">Week Five</string>
+    <string name="week_six">Week Six</string>
+
+    <!-- names for the different sessions -->
+    <string name="session_one">Session One</string>
+    <string name="session_two">Session Two</string>
+    <string name="session_three">Session Three</string>
+    <string name="session_four">Session Four</string>
+
+    <!-- the three different warmups -->
+    <string name="warm_up_a">Warm-up A\n\n3 rounds, 30 seconds each\nJumping Jacks\nInstep Stretch\nArm Circles(forward+back,small+big)\nTrunk Rotation(right+left)</string>
+    <string name="warm_up_b">Warm-up B\n\n3 rounds, 30 seconds each\nSteam Engine\nTrunk Rotation\nFoam Roll It Band and Quads (if possible)</string>
+    <string name="warm_up_c">Warm-up C\n\n(Cardio Warm-up) 4 rounds\n5x BW Squat\n5x Multi-direction Leg Swing\n5x Alternate Lunge(each Leg)</string>
+
+    <!-- week one session one -->
+    <string name="w1_s1_0">empty</string>
+    <string name="w1_s1_1">5 Rounds</string>
+    <string name="w1_s1_2">5x Push-up\n10x Sit-up\n15x BW Squat\nRest @ 30 seconds</string>
+    <string name="w1_s1_3">3 Rounds</string>
+    <string name="w1_s1_4">10x Superman Back Extension\n10x Two Count Flutter Kick</string>
+
+    <!-- week one session two -->
+    <string name="w1_s2_0">empty</string>
+    <string name="w1_s2_1">6 Rounds</string>
+    <string name="w1_s2_2">12x Alternate Lunge(6 each leg)\n6x Plank Walk-up\n6x Lateral Lunge\n6x Plank Walk-up</string>
+    <string name="w1_s2_3">2 Rounds</string>
+    <string name="w1_s2_4">25x Leg Raise\n25x Sit-up</string>
+
+    <!-- week one session three -->
+    <string name="w1_s3_0">empty</string>
+    <string name="w1_s3_1">4 Rounds</string>
+    <string name="w1_s3_2">Burpee @ 30 seconds\nRest @ 30 seconds\nBW Squat @ 30 seconds\nRest @ 30 seconds\nBurpee @ 30 seconds\nRest @ 30 seconds\nIso Squat Hold @ 30 seconds</string>
+    <string name="w1_s3_3">4 Rounds</string>
+    <string name="w1_s3_4">6x Bird Dog (each side)\n6x Superman Back Extension</string>
+
+    <!-- week one session four -->
+    <string name="w1_s4_0">Run at least 30 minutes\n Use a walk, job technique if needed\n(jog until you need a break, then walk as needed, repeate for 30 minutes\n\nLook to build up your mileage over time;\ndo not push too far too fast\n\nIf you can go 30 minutes try a 5k\nIf 5k is easy do a 10k\n\nCool down @ 10 minute easy jog, static stretching</string>
+
+    
+    <!-- week two session one -->
+    <string name="w2_s1_0">empty</string>
+    <string name="w2_s1_1">empty</string>
+    <string name="w2_s1_2">5x Push-up\n10x Alternate Lunch(5 each leg)\n5x Windmill Push-up\n10x Jump Squat\n5x Wide Hands Push-up\n10x Two Count Flutter Kick\n5x Close Hands Push-up\n10x Tip-over(5x each leg)</string>
+    <string name="w2_s1_longround1">Complete this circuit as many times as you can in 20 minutes</string>
+
+    <!-- week two session two -->
+    <string name="w2_s2_0">empty</string>
+    <string name="w2_s2_1">4 Rounds</string>
+    <string name="w2_s2_2">Mountain Climber @ 60 seconds\nRest @ 30 seconds\nBW Squat @ 60 seconds\nRest @ 30 seconds\nSide Plank Hold - Right @ 60 seconds\nRest @ 30 seconds\n Side Plank Hold - Left @ 60 seconds</string>
+    <string name="w2_s2_3">1 Rounds</string>
+    <string name="w2_s2_4">Max Repetition Push-ups in 2 minutes</string>
+
+    <!-- week two session three -->
+    <string name="w2_s3_0">empty</string>
+    <string name="w2_s3_1">4 Rounds</string>
+    <string name="w2_s3_2">24x BW Squat\n24x Alternate Lunge(12x each leg)\n12x Jump Squat\n12x Jump Lunge(6x each leg)</string>
+    <string name="w2_s3_3">5 Rounds</string>
+    <string name="w2_s3_4">Burpee @ 30 seconds\nIn and Out @ 30 seconds</string>
+    <string name="w2_s3_second_darkinfo">Rest @ 30 seconds</string>
+    
+    <!-- week two session four -->
+    <string name="w2_s4_0">8-10 x 400m run @ max effort (400m = one lap around a regulation track or 1/4 of a mile)\n\nRest time is equal to time taken to complete 400m or less\n\nCool down @ 10 min easy jog, static stretching</string>
+
+    <!-- week three session one -->
+    <string name="w3_s1_0">empty</string>
+    <string name="w3_s1_1">5 Rounds</string>
+    <string name="w3_s1_2">5x Alternate Lunge\n10x Plank Walk-up\n15x BW Squat\n20x Mountain Climber\n25x Sit-up</string>
+    <string name="w3_s1_3">3 Rounds</string>
+    <string name="w3_s1_4">6x Bird Dog(each side)\n12x Superman Back Extension\n24x Jumping Jack</string>
+
+    <!-- week three session two -->
+    <string name="w3_s2_0">empty</string>
+    <string name="w3_s2_1">6 Rounds</string>
+    <string name="w3_s2_2">5x Push-up\n10x Alternate Lunge\n5x Incline Push-up\n10x Lateral Lunge\n5x Decline Push-up\n10x Tip-over</string>
+    <string name="w3_s2_3">3 Rounds</string>
+    <string name="w3_s2_4">Plank Hold @ max hold\nSide Plank Right @ max hold\nSide Plank Left @ max hold</string>
+    
+    <!-- week three session three -->
+    <string name="w3_s3_0">empty</string>
+    <string name="w3_s3_1">3 Rounds</string>
+    <string name="w3_s3_2">Mountain Climber @ 60 seconds\nJump Squat @ 60 seconds</string>
+    <string name="w3_s3_3">3 Rounds</string>
+    <string name="w3_s3_4">Push-up @ 60 seconds\nIn and Out @ 60 seconds</string>
+    <string name="w3_s3_5">3 Rounds</string>
+    <string name="w3_s3_6">Jump Lunge @ 60 seconds\nLeg Raise @ 60 seconds</string>
+    <string name="w3_s3_7">3 Rounds</string>
+    <string name="w3_s3_8">Burpee @ 60 seconds\nSit-up @ seconds</string>
+    <string name="w3_s3_first_darkinfo">Rest up to 2 minutes</string>
+    <string name="w3_s3_second_darkinfo">Rest up to 2 minutes</string>
+    <string name="w3_s3_third_darkinfo">Rest up to 2 minutes</string>
+
+    <!-- week three session four -->
+    <string name="w3_s4_0">10-12x Hill Springs\nFind a steep hill that takes 60-90 seconds to climb\n\nRun @ Max Effort\nWalk/easy jog to start\n\nRepeat\n\nCool down @ 10 min easy jog, static stretching</string>
+
+    <!-- week four session one -->
+    <string name="w4_s1_0">empty</string>
+    <string name="w4_s1_1">5 Rounds</string>
+    <string name="w4_s1_2">5x Dive Bomb Push-up\n10x Alternate Lunge\n20x Two Count Flutter Kick</string>
+    <string name="w4_s1_3">5 Rounds</string>
+    <string name="w4_s1_4">5x Plank Walk-up\n10x Reverse Lunge\n20x Superman Back Extension</string>
+    <string name="w4_s1_5">empty</string>
+    <string name="w4_s1_6">Max sit ups @ 2 minutes</string>
+    
+    <!-- week four session two -->
+    <string name="w4_s2_0">empty</string>
+    <string name="w4_s2_1">5 Rounds</string>
+    <string name="w4_s2_2">BW Squat @ 60 seconds\nSquat Hold @ 60 seconds</string>
+    <string name="w4_s2_3">4 Rounds</string>
+    <string name="w4_s2_4">6x Knee to Elbow Push-up(each side)\n12x Split Squat(each leg)\n24x Bird Dog(12 each side)</string>
+    <string name="w4_s2_5">2 Rounds</string>
+    <string name="w4_s2_6">25x Leg Raise\n25x In and Out</string>
+
+    <!-- week four session three -->
+    <string name="w4_s3_0">empty</string>
+    <string name="w4_s3_1">5 Rounds, 30 sec each</string>
+    <string name="w4_s3_2">Burpee\nPlank Hold\nSit-up\nSide Plank Right Side\nPush-up\nSide Plank Left Side</string>
+    <string name="w4_s3_3">3 Rounds</string>
+    <string name="w4_s3_4">12x Lunge Cycle(fwrd,rvrse = 1 rep)</string>
+    <string name="w4_s3_first_darkinfo">Rest @ 60 seconds</string>
+    
+    <!-- week four session four -->
+    <string name="w4_s4_0">Run @ 5 minutes\n25x BW Squats\nRun @ 5 minutes\n25x Jump Squats\nRun @ 5 minutes\n25x Jump Luinge(total)\nRun @ 5 minutes\n 25x Push-up\n\nIf possible repeate up to 3 times\n\nCool down @ 10 minutes with easy jog, static stretching</string>
+
+    <!-- week five session one -->
+    <string name="w5_s1_0">empty</string>
+    <string name="w5_s1_1">4 Rounds</string>
+    <string name="w5_s1_2">Staggered Hand Push-up @ 30 seconds\nJump Squat @ 30 seconds</string>
+    <string name="w5_s1_3">4 Rounds</string>
+    <string name="w5_s1_4">Plank Walk-up @ 30 seconds\nJump Lunged @ 60 seconds</string>
+    <string name="w5_s1_5">4 Rounds</string>
+    <string name="w5_s1_6">Two Count Flutter Kick @ 60 seconds\nIn and Out @ 60 seconds</string>
+    <string name="w5_s1_first_darkinfo">Rest @ 30 seconds</string>
+    <string name="w5_s1_second_darkinfo">Rest @ 30 seconds</string>
+    <string name="w5_s1_third_darkinfo">Rest @ 30 seconds</string>
+
+    <!-- week five session two -->
+    <string name="w5_s2_0">empty</string>
+    <string name="w5_s2_1">3 Rounds</string>
+    <string name="w5_s2_2">12x Burpee\nSide Plank Right Side @ 60 seconds\nBW Squat\nSide Plank Left Side @ 60 seconds</string>
+    <string name="w5_s2_3">3 Rounds</string>
+    <string name="w5_s2_4">6x Split Squat each leg\n24x Leg Raise\n6x Tip-over each leg\n24x sit-up</string>
+    <string name="w5_s2_5">empty</string>
+    <string name="w5_s2_6">Max repetition push-up @ 2 minutes</string>
+
+    <!-- week five session three -->
+    <string name="w5_s3_0">empty</string>
+    <string name="w5_s3_1">5 Rounds</string>
+    <string name="w5_s3_2">5x Windmill Push-up(each arm)\n25x Jumping Jack\n5x Wide Hands Push-up\n25x Mountain CLimber\n5x Close Hands Push-up</string>
+    <string name="w5_s3_3">3 Rounds</string>
+    <string name="w5_s3_4">6x Bird Dog(each side)\n12x Superman Back Extension\n24x Leg Raise</string>
+
+    <!-- week five session four -->
+    <string name="w5_s4_0">empty</string>
+    <string name="w5_s4_1">6 Rounds</string>
+    <string name="w5_s4_2">6x Alternate Lunge(each leg)\n12x BW Squat\n12x Jump Lunge(each leg)\n24x Jump Squat</string>
+    <string name="w5_s4_3">3 Rounds</string>
+    <string name="w5_s4_4">6x Dive Bomb Push-up\nSide Plank Right Side @ 60 seconds\n12x Push-up\nSide Plank Left Side @ 60 seconds\n24x Flutter Kick</string>
+
+    <!-- week five session five -->
+    <string name="w5_s5_0">Run at least 30 minutes\n\nUse a walk/jog technique if needed\n(jog until you need a break, then walk as needed, repeat for 30 minutes\n\nLook to build up your mileage over time;\ndo not push too far too fast\n\nIf you can go 30 minutes try a 5K\nIf you can do a 5K, do a 10K\n\nCool down @ 10 min easy jog, static stretching</string>
+
+    <!-- week six session one -->
+    <string name="w6_s1_0">empty</string>
+    <string name="w6_s1_1">3 Rounds</string>
+    <string name="w6_s1_2">10x Plank Walk-up\n20x BW Squat\n20x Leg Raise</string>
+    <string name="w6_s1_3">3 Rounds</string>
+    <string name="w6_s1_4">5x Staggered Hand Push-up(each hand)\n5x Split Squat(each leg)\n20x In and Out</string>
+    <string name="w6_s1_5">3 Rounds</string>
+    <string name="w6_s1_6">40x Mountain Climber\n10x Lateral Lunge(each leg)\nPlank Hold @ 60 seconds</string>
+
+    <!-- week six session two -->
+    <string name="w6_s2_0">empty</string>
+    <string name="w6_s2_1">2 Rounds, 12 reps each</string>
+    <string name="w6_s2_2">Knee to Elbow Push-up\nJumping Jack\nLeg Raise\nAlternate Lunge\nSuperman Back Extension\nReverse Lunge</string>
+    <string name="w6_s2_3">2 Rounds 12 reps each</string>
+    <string name="w6_s2_4">Windmill Push-up\nAlternate Lunge\nJumping Jack\nReverse Lunge\nTwo count Flutter Kick\nBird Dog</string>
+    <string name="w6_s2_second_long_round">Max Repetitions, 2 minute each exercise</string>
+    <string name="w6_s2_second_long_round_darkinfo">Push-up ‌• Squat‌ • Sit-up</string>
+
+    <!-- week six session three -->
+    <string name="w6_s3_0">empty</string>
+    <string name="w6_s3_1">4 Rounds</string>
+    <string name="w6_s3_2">60 seconds on, 30 seconds rest\nBurpee</string>
+    <string name="w6_s3_3">4 Rounds</string>
+    <string name="w6_s3_4">60 seconds on, 30 second rest\nJump Squat</string>
+    <string name="w6_s3_5">4 Rounds</string>
+    <string name="w6_s3_6">60 seconds on, 30 seconds rest\nJump Lunge</string>
+    <string name="w6_s3_7">4 Rounds</string>
+    <string name="w6_s3_8">Max Hold Plank</string>
+    
+    <!-- week six session four -->
+    <string name="w6_s4_0">empty</string>
+    <string name="w6_s4_1">5 Rounds</string>
+    <string name="w6_s4_2">10x Dive Bomb Push-up\n20x In and Out\n10x Alternate Lunge(each leg)\n20x Leg Raise\n10x Plank Walk-up\n20x Sit-up\n10x BW Squat\n20x Two Count Flutter Kick</string>
+
+    <!-- week six session five -->
+    <string name="w6_s5_0">Mile Repeats\n\n2-4x one mile repeate @ max effor\n\nWalk/jog recovery equal to the time taken to complete the mile run\n\nCool down @ 10 min easy jog, static stretching</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
